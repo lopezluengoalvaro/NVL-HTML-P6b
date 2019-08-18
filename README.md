@@ -4,37 +4,37 @@ Lista películas favoritas
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Lista 10 peliculas favoritas</title>
   </head>
   <body>
     <p>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Apocalypse Now</li>
+        <li>Salvar al soldado Ryan</li>
+        <li>Un puente lejano</li>
+        <li>La delgada línea roja</li>
+        <li>Cartas desde Iwo Jima</li>
+        <li>Enemigo a las puertas</li>
+        <li>Senderos de gloria</li>
+        <li>Platoon</li>
+        <li>Dunkerque</li>
+        <li>Black Hawk derribado</li>
       </ul>
     </p>
-  </body>
+   </body>
   <head>
       <meta charset="utf-8">
-      <title></title>
+      <title>Lista 5 peliculas del tirón</title>
   </head>
   <body>
     <p>
       <ol>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-  </ol>
-  </p>
+        <li>Vengadores Endgame</li>
+        <li>Vengadores Inginity Ward</li>
+        <li>Thor Ragnarok</li>
+        <li>Capitan America Civil War</li>
+        <li>Ironman 1</li>
+      </ol>
+    </p>
   </body>
   </html>
